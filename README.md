@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm me!
 
-##### Profile Picture made by [Palea](https://www.twitter.com/PaleaRaptoy)
+##### Profile Picture made by [Palea](https://www.twitter.com/PaleaRaptor)
 
 <!--
 **Mcbuzzerr/mcbuzzerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
