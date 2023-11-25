@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm me!
 
+### I happen to be a fullstack developer!
+
 ##### Profile Picture made by [Palea](https://www.twitter.com/PaleaRaptor)
 
 <!--
