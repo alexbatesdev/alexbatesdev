@@ -1,20 +1,11 @@
-### Hi there 👋 I'm me!
+# Hi there 👋 I'm Alex Bates!
+I am a full-stack web developer with a profound passion for computer science. My journey began at the age of 9 when I first saw Ocarina of Time being emulated on my Dad's computer, and I have been captivated by technology ever since. From emulating games and creating websites to mastering Kubernetes and hosting my Minecraft server on AWS, I am always eager to learn and explore new technologies.
 
-### I happen to be a fullstack developer!
+- 🌐 Check out my [portfolio](https://dev.alexbates.me) to see some of my work in action!
+- 🖥️ I have been a hobbyist programmer and web developer since 2017.
+- 🏫 I took every computer science class available and served as a computer science TA in high school.
+- 🎓 I am currently finishing my Bachelor's in Software Engineering, graduating in August.
 
-##### Profile Picture made by [Palea](https://www.twitter.com/PaleaRaptor)
+Outside of programming, I enjoy playing video games, working on my car, and hiking and rock climbing!
 
-<!--
-**Mcbuzzerr/mcbuzzerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Profile picture made by [Palea](https://twitter.com/PaleaRaptor).
