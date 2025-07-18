@@ -5,6 +5,6 @@ I am a full-stack web developer with a profound passion for computer science. My
 - 🌐 Check out my [portfolio](https://dev.alexbates.me) to see some of my work in action!
 - 🖥️ I have been a hobbyist programmer and web developer since 2017.
 - 🏫 I took every computer science class available and served as a computer science TA in high school.
-- 🎓 I am currently finishing my Bachelor's in Software Engineering, graduating in August.
+- 🎓 I graduated as valedictorian in 2024 with a Bachelor of Science in Software Engineering from Neumont College of Computer Science.
 
-Outside of programming, I enjoy playing video games, modding retro consoles, hiking and rock climbing!
+Outside of programming, I enjoy playing video games, working on my car, and hiking and rock climbing!
