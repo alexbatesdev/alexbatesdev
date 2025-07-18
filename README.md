@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Alex Bates!
-I am a full-stack web developer with a profound passion for computer science. My journey began at the age of 9 when I first saw Ocarina of Time being emulated on my Dad's computer, and I have been captivated by technology ever since. From emulating games and creating websites to mastering Kubernetes and hosting my Minecraft server on AWS, I am always eager to learn and explore new technologies.
+I am a software engineer with a profound passion for computer science. My journey began at the age of 9 when I first saw Ocarina of Time being emulated on my Dad's computer, and I have been captivated by technology ever since. From emulating games and creating websites to mastering Kubernetes and hosting my Minecraft server on AWS, I am always eager to learn and explore new technologies.
 
 
 - 🌐 Check out my [portfolio](https://dev.alexbates.me) to see some of my work in action!
