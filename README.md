@@ -7,8 +7,4 @@ I am a full-stack web developer with a profound passion for computer science. My
 - 🏫 I took every computer science class available and served as a computer science TA in high school.
 - 🎓 I am currently finishing my Bachelor's in Software Engineering, graduating in August.
 
-Outside of programming, I enjoy playing video games, working on my car, and hiking and rock climbing!
-
-### Hiring? My LinkedIn is [alexbatesdev](https://www.linkedin.com/in/alexbatesdev/)
-
-##### Profile picture made by [Palea](https://twitter.com/PaleaRaptor).
+Outside of programming, I enjoy playing video games, modding retro consoles, hiking and rock climbing!
